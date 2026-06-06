@@ -28,4 +28,5 @@ A Python-based web application that manages user registration, secure authentica
 Ensure you install dependencies inside your environment before app launch:
 ```bash
 pip install Flask Flask-SQLAlchemy bcrypt# Secure-Login-System
-A Python-based web application that manages user registration, secure authentication, and active session states. It mitigates critical web vulnerabilities like SQL Injection, session hijacking, and plain-text credential leaks using industry-standard cryptography and framework protections.
+
+https://github.com/RP-0102/Secure-Login-System
