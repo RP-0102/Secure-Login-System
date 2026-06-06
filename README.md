@@ -21,6 +21,7 @@ A Python-based web application that manages user registration, secure authentica
 4. **Persist:** Emits signed browser identity cookies to track session states across route endpoints.
 
 ---
+https://github.com/RP-0102/Secure-Login-System
 
 ## ⚡ Quick Start
 
@@ -28,5 +29,3 @@ A Python-based web application that manages user registration, secure authentica
 Ensure you install dependencies inside your environment before app launch:
 ```bash
 pip install Flask Flask-SQLAlchemy bcrypt# Secure-Login-System
-
-https://github.com/RP-0102/Secure-Login-System
